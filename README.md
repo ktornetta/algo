@@ -8,7 +8,7 @@ rbt_sort - red black tree sort
 
 bst_sort - binary search tree sort
 
-smith_waterman - smith waterman algorithm
+smith_waterman - smith-waterman algorithm
 
 dfs_bfs - depth first search and breadth first search
 
